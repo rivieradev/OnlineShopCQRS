@@ -27,6 +27,7 @@ This project simulates an online shop where users can **add products** (commands
 git clone https://github.com/your-username/OnlineShopCQRS.git
 cd OnlineShopCQRS
 dotnet run
+```
 
 ### Test the project
 Check the port in the file OnlineShopCQRS.http
